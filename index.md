@@ -6,8 +6,8 @@ layout: single
 author_profile: true
 ---
 
-<font size="10">  
-I am a PhD student in Education Policy at the University of Maryland, College Park. My research focuses on the inequity that students face in American public schools: (1) the causes of racial/ethnic disproportionality in school discipline, (2) socioeconomic disparities among Asian students, and (3) teachers' stereotypes and systematic barriers faced by racially/ethnically marginalized students. I use quantitative and qualitative methods to deepen the understanding, causal inference modeling and document analysis and literature review with a qualitative lens.
+<font size="5">  
+I am a PhD student in Education Policy at the University of Maryland, College Park. My research focuses on the inequities in American public schools and teachers' stereotypes and systematic barriers faced by racially/ethnically marginalized students. 
   - School Discipline
   - Socioeconomic Inequality
   - Asian Students
