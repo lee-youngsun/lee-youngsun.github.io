@@ -59,13 +59,13 @@ plugins:
 
 author:
   name   : "Youngsun Lee"
-  avatar : "/assets/images/Lee_profile.jpg"
+  avatar : "/assets/images/Lee_profile.JPG"
   bio    : "Education Policy Researcher"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/youngsun-lee-4561a724a/"
-    - label: "Googld Scholar"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=OqbzkA4AAAAJ&hl=en&oi=sra"
     - label: "ORCID"
