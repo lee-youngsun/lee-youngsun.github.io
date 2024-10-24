@@ -16,6 +16,3 @@ title: "Publications"
 - Moon, C., Lee, Y., Lee, J., & Jeong, D. W. (2019). The impact of adolescent-parent career congruence on student learning experiences and career development. Asian Journal of Education, 20(3), 617-645. https://doi.org/10.15753/aje.2019.09.20.3.617  [In Korean]
 
 - Moon, C., Nam, I., Lee, Y., Lee, J., Han, S., & Jeong, D. W. (2019). The effects of diversity of workers’ educational backgrounds on corporate financial and non-financial performances. Journal of Vocational Education & Training, 22(2), 91-127. https://doi.org/10.36907/krivet.2019.22.2.91  [In Korean]
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EVeYmxPoO4g?si=0WKZmBmkVc787H9C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
