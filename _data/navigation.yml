@@ -1,7 +1,9 @@
 main:
   - title: "Publications"
-    url: /posts/
+    url: /publications/
   - title: "Teaching"
-    url: /categories/
+    url: /teaching/
   - title: "Services"
-    url: /tags/
+    url: /services/
+  - title: "CV"
+    url: /cv/
