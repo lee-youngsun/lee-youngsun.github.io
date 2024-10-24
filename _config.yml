@@ -62,9 +62,6 @@ author:
   avatar : "/assets/images/Lee_profile.jpg"
   bio    : "Education Policy Researcher"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:yslee458@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/youngsun-lee-4561a724a/"
